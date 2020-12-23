@@ -1,4 +1,9 @@
-# Your first neural network
+# A Neural Network to predict daily bike rental ridership
+
+
+
+Part of the Udacity Deep Learning Nanodegree Program.
+
 
 In this project, you'll build your first neural network and use it to predict daily bike rental ridership. We've provided some of the code, but left the implementation of the neural network up to you (for the most part). After you've submitted this project, feel free to explore the data and the model more.
 
@@ -36,19 +41,7 @@ rides.head(10)
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
